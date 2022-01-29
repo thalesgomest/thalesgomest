@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Full Stack Programming in <b>Driven Educatiom</b>
 - 😄 Pronouns: [ele/dele]
 
-<div align="center" display="flex">
+<div display="flex">
   <a href="https://github.com/thalesgomest">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thalesgomest&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesgomest&layout=compact&langs_count=7&theme=nightowl"/>
