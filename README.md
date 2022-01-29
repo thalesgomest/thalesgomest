@@ -16,7 +16,7 @@
   <img align="center" alt="Thales-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://res.cloudinary.com/practicaldev/image/fetch/s--yoKA8H-p--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/34/gopher-badge.png">
 </div>
- </div>
+</div>
   
   ##
  
