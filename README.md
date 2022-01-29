@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" alt="Thales-Js" height=200em src="https://user-images.githubusercontent.com/97575616/151675763-b6028701-1359-4a56-86a7-4c727a454659.gif">
+<img align="center" alt="Thales-Js" height=200em src="https://user-images.githubusercontent.com/97575616/151676251-c7becb4d-2342-44c9-918d-e12cb0b39470.gif">
 </div>
 
 ### Hello! 👋
