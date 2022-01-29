@@ -20,7 +20,7 @@
   <img align="center" alt="Thales-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Thales-Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Thales-Illustrator" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-  <img align="right" alt="Bear-pic" height="150" style="border-radius:50px;" src="https://res.cloudinary.com/practicaldev/image/fetch/s--yoKA8H-p--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/34/gopher-badge.png">
+  <img align="right" alt="Bear-pic" height="150em" style="border-radius:50px;" src="https://user-images.githubusercontent.com/97575616/151676617-d3dacf6f-7bef-4160-a9f7-1fa361e57af3.gif">
 </div>
 </div>
   
