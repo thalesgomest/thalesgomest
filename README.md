@@ -5,7 +5,7 @@
 - 😄 Pronouns: [ele/dele]
 
 <div align="center">
-<img align="center" alt="Thales-Js" height=400em src="https://user-images.githubusercontent.com/97575616/151675082-8bec06f3-d72f-4fcd-9edc-e6a0f1e79bcf.gif">
+<img align="center" alt="Thales-Js" height=400em src="https://user-images.githubusercontent.com/97575616/151675763-b6028701-1359-4a56-86a7-4c727a454659.gif">
 </div>
 <div align="center">
   <a href="https://github.com/thalesgomest">
