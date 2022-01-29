@@ -1,6 +1,7 @@
 <div align="center">
 <img align="center" alt="Thales-Js" height=200em src="https://user-images.githubusercontent.com/97575616/151675763-b6028701-1359-4a56-86a7-4c727a454659.gif">
 </div>
+
 ### Hello! 👋
 ### I'm Thales Gomes
 - 🔭 I’m currently working on <i><b>Universidade Estadual de Campinas (Unicamp)</b></i>
