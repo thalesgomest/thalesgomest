@@ -2,7 +2,8 @@
 <img align="center" alt="Welcome" height=200em src="https://user-images.githubusercontent.com/97575616/151676251-c7becb4d-2342-44c9-918d-e12cb0b39470.gif">
 </div>
 
-### Hello! 👋
+### Hello! 👋  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=ari-thalesgomest.thalesgomest">
+
 ### I'm Thales Gomes
 - 📖 I’m currently studying on <i><b>Universidade Estadual de Campinas (Unicamp)</b></i>
 - 👨🏻‍💻 I’m currently learning: Full Stack Developer at <i><b>Driven Education</b></i>
