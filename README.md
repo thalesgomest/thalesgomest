@@ -6,7 +6,7 @@
 ### I'm Thales Gomes
 - 📖 I’m currently studying on <i><b>Universidade Estadual de Campinas (Unicamp)</b></i>
 - 👨🏻‍💻 I’m currently learning: Full Stack Developer at <i><b>Driven Education</b></i>
-- 🎓 Mechanical Engineer / Future Software Engineering 
+- 🎓 Mechanical Engineer / Future Software Engineer 
 - ⚧ Pronouns: [ele/dele]
 
 <div align="center">
