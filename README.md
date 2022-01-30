@@ -1,12 +1,13 @@
 <div align="center">
-<img align="center" alt="Thales-Js" height=200em src="https://user-images.githubusercontent.com/97575616/151676251-c7becb4d-2342-44c9-918d-e12cb0b39470.gif">
+<img align="center" alt="Welcome" height=200em src="https://user-images.githubusercontent.com/97575616/151676251-c7becb4d-2342-44c9-918d-e12cb0b39470.gif">
 </div>
 
 ### Hello! 👋
 ### I'm Thales Gomes
-- 🔭 I’m currently working on <i><b>Universidade Estadual de Campinas (Unicamp)</b></i>
-- 🌱 I’m currently learning: Full Stack Developer at <i><b>Driven Education</b></i>
-- 😄 Pronouns: [ele/dele]
+- 📖 I’m currently studying on <i><b>Universidade Estadual de Campinas (Unicamp)</b></i>
+- 👨🏻‍💻 I’m currently learning: Full Stack Developer at <i><b>Driven Education</b></i>
+- 🎓 Mechanical Engineer / Future Software Engennier 
+- ⚧ Pronouns: [ele/dele]
 
 <div align="center">
   <a href="https://github.com/thalesgomest">
