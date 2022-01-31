@@ -8,9 +8,9 @@
 - 📖 I’m currently studying on <i><b>Universidade Estadual de Campinas (Unicamp)</b></i>
 - 👨🏻‍💻 I’m currently learning: Full Stack Developer at <i><b>Driven Education</b></i>
 - 🎓 Mechanical Engineer / Future Software Engineer 
-- ⚧ Pronouns: [ele/dele]
+- ♂️ Pronouns: [ele/dele]
 
-### 📊 Stats Cards
+### 📊 My Github Stats
 <div align="center">
   <a href="https://github.com/thalesgomest">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thalesgomest&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -31,7 +31,7 @@
 </div>
   
   ##
- 
+  ### 🖥 Contact and Social Media
 <!--  Redes Sociais e Contatos -->
 <div>
   <a href="https://www.facebook.com/thales.gomes.targino/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
@@ -43,3 +43,8 @@
   ![Snake animation](https://github.com/thalesgomest/thalesgomest/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+
+> *"Perfer et obdura; dolor hic tibi proderit olim" (Be patient and tough; someday this pain will be useful to you)”* - Ovídio
+
+
