@@ -1,6 +1,6 @@
  <br><br>
     <p align="center"> <samp>
-   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=👋+Hi+there!+I'm+a+Developer&center=true&title_color=79c0ff"></a>
+   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=👨‍💻+Hi+there!+I'm+a+Developer&center=true&title_color=79c0ff"></a>
   </samp>
 ### Hello! 👋  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=thalesgomest.visitor-badge&left_color=grey&right_color=blue&left_text=Hi%20Visitors">
 
@@ -13,8 +13,8 @@
 ### 📊 My Github Stats
 <div align="center">
   <a href="https://github.com/thalesgomest">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thalesgomest&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesgomest&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thalesgomest&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesgomest&layout=compact&langs_count=7&theme=outrun"/>
 </div>
   
 ### ⚒️ Technologies and tools
