@@ -3,10 +3,11 @@
    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=👨‍💻+Hi+there!+I'm+a+Developer&center=true&title_color=79c0ff"></a>
   </samp>
  <br>
- 
-### Hello! 👋  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=thalesgomest.visitor-badge&left_color=grey&right_color=blue&left_text=Hi%20Visitors">
 
-### I'm Thales Gomes  <img align="right" alt="dog-pic" height="150em" style="border-radius:50px;" src="https://user-images.githubusercontent.com/97575616/151784791-07cb86ad-1b27-4b1c-a8d3-acc8f73598de.gif">
+### Hello! 👋  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=thalesgomest.visitor-badge">
+
+### I'm Thales Gomes  
+
 - 📖 I’m currently studying on <i><b>Universidade Estadual de Campinas (Unicamp)</b></i>
 - 👨🏻‍💻 I’m currently learning: Full Stack Developer at <i><b>Driven Education</b></i>
 - 🎓 Mechanical Engineer / Future Software Engineer 
