@@ -47,7 +47,7 @@
  
 </div>
  
- ### My Spotify 🎵
+ ### Music 🎵
  
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=thalesgomes)](https://open.spotify.com/user/thalesgomes)
 
