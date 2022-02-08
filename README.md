@@ -46,12 +46,10 @@
   ![Snake animation](https://github.com/thalesgomest/thalesgomest/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
  
- ### Music 🎵
+ ### My Spotify 🎵
  
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=thalesgomes)](https://open.spotify.com/user/thalesgomes)
-
 
 
 > *"Perfer et obdura; dolor hic tibi proderit olim" (Be patient and tough; someday this pain will be useful to you)”* - Ovídio
