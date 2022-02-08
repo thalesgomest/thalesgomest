@@ -1,10 +1,9 @@
- <br>
-    <p align="center"> <samp>
-   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=👨‍💻+Hi+there!+I'm+a+Developer&center=true&title_color=79c0ff"></a>
-  </samp>
- <br>
 
-### Hello! 👋  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=thalesgomest.visitor-badge">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%235A3DF7&size=23&lines=%F0%9F%92%BB+Hi+there!+I'm+a+Developer!;Welcome+to+my+Github+profile!">
+</p>
+ 
+### Hello! 👋 
 
 ### I'm Thales Gomes  
 
@@ -12,6 +11,7 @@
 - 👨🏻‍💻 I’m currently learning: Full Stack Developer at <i><b>Driven Education</b></i>
 - 🎓 Mechanical Engineer / Future Software Engineer 
 - ♂️ Pronouns: [ele/dele]
+- 🇧🇷 Brazilian
 
 ### 📊 My Github Stats
 <div align="center">
