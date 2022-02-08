@@ -49,11 +49,9 @@
 
  
  ### Recently Played 🎵
+ 
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=thalesgomes)](https://open.spotify.com/user/thalesgomes)
 
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=thalesgomes">
-</p>
-<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=thalesgomes) -->
 
 
 > *"Perfer et obdura; dolor hic tibi proderit olim" (Be patient and tough; someday this pain will be useful to you)”* - Ovídio
