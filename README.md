@@ -1,8 +1,8 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%235A3DF7&size=23&lines=%F0%9F%92%BB+Hi+there!+I'm+a+Developer!;Welcome+to+my+Github+profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AECDF&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++Hi+there!+I'm+a+developer!+;Welcome+to+my+Github+profile!">
 </p>
- 
+
 ### Hello! 👋 
 
 ### I'm Thales Gomes  
@@ -16,8 +16,8 @@
 ### 📊 My Github Stats
 <div align="center">
   <a href="https://github.com/thalesgomest">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thalesgomest&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesgomest&layout=compact&langs_count=7&theme=aura"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thalesgomest&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesgomest&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
 ### ⚒️ Technologies and tools
