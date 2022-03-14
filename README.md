@@ -3,6 +3,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=1AECDF&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++Hi+there!+I'm+a+developer!+;Welcome+to+my+Github+profile!">
 </p>
 
+<div align="right">
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fthalesgomest&label=VISITORS%20TODAY&labelColor=%23ff178a&countColor=%231aecdf&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fthalesgomest)
+  
+</div>
+
 ### Hello! 👋 
 
 ### I'm Thales Gomes  
