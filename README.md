@@ -25,6 +25,16 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thalesgomest&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesgomest&layout=compact&langs_count=7&theme=radical"/>
 </div>
+ 
+  
+### 🕖 WakaTime Stats
+  
+<div align="center">
+  
+[![wakatime](https://wakatime.com/badge/user/c9842fba-7b55-4212-8295-53ac0b423a90.svg?style=for-the-badge)](https://wakatime.com/@c9842fba-7b55-4212-8295-53ac0b423a90)  
+  
+<a href="https://wakatime.com/@thalesgomest" title="Data update every midnight"><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=thalesgomest&layout=compact&langs_count=6&theme=radical" alt="Wakatime weekly coding actitvity languages"/></a>
+</div>
   
 ### ⚒️ Technologies and tools
 <div style="display: inline_block"><br>
