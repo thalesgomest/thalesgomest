@@ -27,7 +27,7 @@
 </div>
  
   
-### 🕖 WakaTime Stats
+### 🕖 WakaTime
   
 <div align="center">
   
