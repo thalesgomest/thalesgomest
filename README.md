@@ -5,7 +5,7 @@
 
 <div align="right">
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fthalesgomest&label=VISITORS%20TODAY&labelColor=%23ff178a&countColor=%231aecdf&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fthalesgomest)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fthalesgomest&label=VISITORS&labelColor=%23ff178a&countColor=%231aecdf&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fthalesgomest)
   
 </div>
 
