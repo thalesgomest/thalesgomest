@@ -49,8 +49,16 @@
   <img align="center" alt="express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img align="center" alt="node-js" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="npm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+    <img align="center" alt="postgresql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+ <img align="center" alt="typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <p></p>
+ <img align="center" alt="jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+ <img align="center" alt="cypress" height="40" src="https://user-images.githubusercontent.com/97575616/181080780-fd066f71-5d6e-4167-83f6-f6c86dac1146.png" />
+<img align="center" alt="cypress" height="50" src="https://miro.medium.com/max/1000/1*MdTvC66EwOO3_fzjJmW3tA.png" />
+ 
+
+
   
-<!--   <p></p> space between icons -->
   <img align="right" alt="cofee-pic" height="150em" style="border-radius:50px;" src="https://user-images.githubusercontent.com/97575616/151676617-d3dacf6f-7bef-4160-a9f7-1fa361e57af3.gif">
 </div>
 </div>
