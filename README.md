@@ -19,22 +19,27 @@
 - ♂️ Pronouns: [ele/dele]
 - 🇧🇷 Brazilian
 
+##
+
 ### 📊 My Github Stats
-<div align="center">
+<div align="left">
   <a href="https://github.com/thalesgomest">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thalesgomest&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesgomest&layout=compact&langs_count=7&theme=radical"/>
+ <!--- <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thalesgomest&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
+  <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesgomest&layout=compact&langs_count=7&theme=radical"/>
 </div>
- 
-  
+
+##
+
 ### 🕖 WakaTime
   
-<div align="center">
+<div align="left">
   
 [![wakatime](https://wakatime.com/badge/user/c9842fba-7b55-4212-8295-53ac0b423a90.svg?style=for-the-badge)](https://wakatime.com/@c9842fba-7b55-4212-8295-53ac0b423a90)  
   
 <a href="https://wakatime.com/@thalesgomest" title="Data update every midnight"><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=thalesgomest&layout=compact&langs_count=6&theme=radical" alt="Wakatime weekly coding actitvity languages"/></a>
 </div>
+
+##
   
 ### ⚒️ Technologies and tools
 <div style="display: inline_block"><br>
@@ -65,20 +70,24 @@
   ### 🖥 Contact and Social Media
 <!--  Redes Sociais e Contatos -->
 <div>
-  <a href="https://www.facebook.com/thales.gomes.targino/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+<!-- <a href="https://www.facebook.com/thales.gomes.targino/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/thalesgomest/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/thalesgomes" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
+  <a href="https://open.spotify.com/user/thalesgomes" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:thalestargino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thales-gomes-targino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/thales-gomes-targino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+ 
+   ##
  
   ![Snake animation](https://github.com/thalesgomest/thalesgomest/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
- ### Music 🎵
+<!-- ### Music 🎵
  
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=thalesgomes)](https://open.spotify.com/user/thalesgomes)
-
+ [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=thalesgomes)](https://open.spotify.com/user/thalesgomes)
+ 
+ -->
 
 > *"Perfer et obdura; dolor hic tibi proderit olim" (Be patient and tough; someday this pain will be useful to you)”* - Ovídio
 
