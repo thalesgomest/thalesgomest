@@ -55,11 +55,9 @@
  <img align="center" alt="jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
  <img align="center" alt="cypress" height="40" src="https://user-images.githubusercontent.com/97575616/181080780-fd066f71-5d6e-4167-83f6-f6c86dac1146.png" />
 <img align="center" alt="cypress" height="50" src="https://miro.medium.com/max/1000/1*MdTvC66EwOO3_fzjJmW3tA.png" />
+
  
-
-
-  
-  <img align="right" alt="cofee-pic" height="150em" style="border-radius:50px;" src="https://user-images.githubusercontent.com/97575616/151676617-d3dacf6f-7bef-4160-a9f7-1fa361e57af3.gif">
+  <img align="right" alt="cofee-pic" height="150em" style="border-radius:50px;" src="https://user-images.githubusercontent.com/97575616/191055626-95ff13dc-05ee-48d1-826b-56361ce0944d.png">
 </div>
 </div>
   
