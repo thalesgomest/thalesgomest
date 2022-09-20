@@ -18,6 +18,7 @@
 * Ouvir podcasts, assistir documentários e jogar com meus amigos são meus hobbies favoritos 🎧📺🎮<br>
 * Pronomes: Ele/Dele :male_sign:<br>
 * Brasileiro :brazil:
+* No momento estudando programação orientada a objetos (POO) 📖
 
 ##
 
