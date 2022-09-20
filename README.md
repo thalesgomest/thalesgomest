@@ -80,9 +80,7 @@ Ouvir podcasts, assistir documentários e jogar com meus amigos são meus hobbie
     <p></p>
     <img src="https://img.shields.io/static/v1?message=Amazon AWS&logo=Amazon AWS&labelColor=232F3E&color=232F3E&logoColor=white&label=%20&style=for-the-badge&logoWidth=20">
     <img src="https://img.shields.io/static/v1?message=Vercel&logo=Vercel&labelColor=000000&color=000000&logoColor=white&label=%20&style=for-the-badge&logoWidth=20">
-    <img src="https://img.shields.io/static/v1?message=Heroku&logo=Heroku&labelColor=430098&color=430098&logoColor=white&label=%20&style=for-the-badge&logoWidth=20">
-    <img src="https://img.shields.io/static/v1?message=Visual Studio Code&logo=Visual Studio Code&labelColor=007ACC&color=007ACC&logoColor=white&label=%20&style=for-the-badge&logoWidth=20">
-    <br>
+    <img src="https://img.shields.io/static/v1?message=Heroku&logo=Heroku&labelColor=430098&color=430098&logoColor=white&label=%20&style=for-the-badge&logoWidth=20"><br>
 
 -   _**Ferramentas**_<br>
     <p></p>
