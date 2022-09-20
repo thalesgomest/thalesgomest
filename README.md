@@ -13,7 +13,7 @@
 
 * Sou desenvolvedor web **Full Stack**! Adoro lidar com dados e tudo que o back-end oferece, mas também valorizo muito a experiência final do usuário via front-end!
 * Apaixonado por tecnologia, pizza, café, chocolate e cachorros mas não necessáriamente nesta ordem 👨‍💻🍕☕🍫🐶
-* Sou Paulista de nascimento, mas mineiro de coração! ❤️
+* Sou paulista de nascimento, mas mineiro de coração! ❤️
 * Engenheiro Mecânico por formação, mas me encontrei de verdade como Engenheiro de Software 💻
 * Ouvir podcasts, assistir documentários e jogar com meus amigos são meus hobbies favoritos 🎧📺🎮<br>
 * Pronomes: Ele/Dele :male_sign:<br>
