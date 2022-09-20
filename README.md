@@ -15,7 +15,9 @@ Sou desenvolvedor **Full Stack**! Adoro lidar com dados e tudo que o back-end of
 Apaixonado por tecnologia, pizza, café, chocolate e cachorros mas não necessáriamente nesta ordem 👨‍💻🍕☕🍫🐶<br>
 Sou Paulista de nascimento, mas mineiro de coração! ❤️<br>
 Engenheiro Mecânico por formação, mas me encontrei de verdade na Engenharia de Software 💻<br>
-Ouvir podcasts, assistir documentários e jogar com meus amigos são meus hobbies favoritos 🎧📺🎮
+Ouvir podcasts, assistir documentários e jogar com meus amigos são meus hobbies favoritos 🎧📺🎮<br>
+Pronomes: Ele/Dele :male_sign:<br>
+Brasileiro :brazil:
 
 ##
 
