@@ -23,7 +23,7 @@ Ouvir podcasts, assistir documentários e jogar com meus amigos são meus hobbie
 
 <div align="left">
   <a href="https://github.com/thalesgomest">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesgomest&layout=compact&langs_count=7&theme=radical"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesgomest&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ##
