@@ -21,7 +21,7 @@
 
 ##
 
-### 📊 Github Status
+### 📊 Status do meu Github
 
 <div align="left">
   
