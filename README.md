@@ -19,17 +19,21 @@ Ouvir podcasts, assistir documentários e jogar com meus amigos são meus hobbie
 
 ##
 
-### 📊 Status do Github
+### 📊 Github Status
+
+<div align="left">
+  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesgomest&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+### 🕛 Wakatime
 
 <div align="left">
 
 [![wakatime](https://wakatime.com/badge/user/c9842fba-7b55-4212-8295-53ac0b423a90.svg?style=for-the-badge)](https://wakatime.com/@c9842fba-7b55-4212-8295-53ac0b423a90)
 
-</div>
+<img height="180em"  src="https://github-readme-stats.vercel.app/api/wakatime?username=thalesgomest&layout=compact&langs_count=6&theme=radical" alt="Wakatime weekly coding actitvity languages"/>
 
-<div align="left">
-  <img height="160em"  src="https://github-readme-stats.vercel.app/api/wakatime?username=thalesgomest&layout=compact&langs_count=6&theme=radical" alt="Wakatime weekly coding actitvity languages"/>
-  <img height="160em" style="margin-right:25px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesgomest&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ##
