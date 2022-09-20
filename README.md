@@ -7,7 +7,7 @@
 
 </div>
 
-### Olá! 👋
+### Muito prazer! 👋
 
 ### Meu nome é Thales Gomes,
 
