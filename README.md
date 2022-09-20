@@ -59,8 +59,7 @@ Ouvir podcasts, assistir documentários e jogar com meus amigos são meus hobbie
     <p>
     <img src="https://img.shields.io/static/v1?message=Node.js&logo=Node.js&labelColor=339933&color=339933&logoColor=white&label=%20&style=for-the-badge&logoWidth=20">
     <img src="https://img.shields.io/static/v1?message=Express&logo=Express&labelColor=000000&color=000000&logoColor=white&label=%20&style=for-the-badge&logoWidth=20">
-    <img src="https://img.shields.io/static/v1?message=Prisma&logo=Prisma&labelColor=2D3748&color=2D3748&logoColor=white&label=%20&style=for-the-badge&logoWidth=20">
-<br>
+    <img src="https://img.shields.io/static/v1?message=Prisma&logo=Prisma&labelColor=2D3748&color=2D3748&logoColor=white&label=%20&style=for-the-badge&logoWidth=20"><br>
 
 -   _**Banco de Dados**_<br>
 
