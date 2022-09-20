@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AECDF&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++Olá!+Eu sou um Desenvolvedor!+;Bem-vindo(a)+ao+meu+Github!">
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AECDF&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+um+desenvolvedor!;Bem-vindo(a)+ao+meu+Github!)](https://git.io/typing-svg)
+
 
 <div align="right">
 
