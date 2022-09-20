@@ -115,9 +115,7 @@
   
  
 ##
- 
-</div>
 
 > _"Perfer et obdura; dolor hic tibi proderit olim" (Be patient and tough; someday this pain will be useful to you”_ - Ovídio
 
-</div>
+
