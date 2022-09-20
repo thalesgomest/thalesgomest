@@ -26,8 +26,8 @@ Ouvir podcasts, assistir documentários e jogar com meus amigos são meus hobbie
 </div>
 
 <div align="left">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/wakatime?username=thalesgomest&layout=compact&langs_count=6&theme=radical" alt="Wakatime weekly coding actitvity languages"/>
-  <img height="180em" style="margin-right:25px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesgomest&layout=compact&langs_count=7&theme=radical"/>
+  <img height="140em"  src="https://github-readme-stats.vercel.app/api/wakatime?username=thalesgomest&layout=compact&langs_count=6&theme=radical" alt="Wakatime weekly coding actitvity languages"/>
+  <img height="140em" style="margin-right:25px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesgomest&layout=compact&langs_count=7&theme=radical"/>
 </div><br>
 
 ##
