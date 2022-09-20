@@ -7,6 +7,12 @@
 
 </div>
 
+<div align="right">
+
+<a align="right" href="https://github.com/thalesgomest/thalesgomestEN-US#readme">🔁 Change to English Version</a>
+
+</div>
+
 ### Muito prazer! 👋
 
 ### Meu nome é Thales Gomes,
