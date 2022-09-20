@@ -25,7 +25,7 @@ Brasileiro :brazil:
 
 <div align="left">
   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesgomest&layout=compact&langs_count=7&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesgomest&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ### 🕛 Wakatime
@@ -33,8 +33,7 @@ Brasileiro :brazil:
 <div align="left">
 
 [![wakatime](https://wakatime.com/badge/user/c9842fba-7b55-4212-8295-53ac0b423a90.svg?style=for-the-badge)](https://wakatime.com/@c9842fba-7b55-4212-8295-53ac0b423a90)
-
-<img height="180em"  src="https://github-readme-stats.vercel.app/api/wakatime?username=thalesgomest&layout=compact&langs_count=6&theme=radical" alt="Wakatime weekly coding actitvity languages"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=thalesgomest&layout=compact&langs_count=6&theme=radical" alt="Wakatime weekly coding actitvity languages"/>
 
 </div>
 
