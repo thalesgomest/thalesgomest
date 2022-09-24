@@ -101,7 +101,6 @@
     <img src="https://img.shields.io/static/v1?message=Git&logo=Git&labelColor=F05032&color=F05032&logoColor=white&label=%20&style=for-the-badge">
     <img src="https://img.shields.io/static/v1?message=Trello&logo=Trello&labelColor=0052CC&color=0052CC&logoColor=white&label=%20&style=for-the-badge">
     <img src="https://img.shields.io/static/v1?message=Slack&logo=Slack&labelColor=4A204B&color=4A204B&logoColor=white&label=%20&style=for-the-badge">
-    <img src="https://img.shields.io/static/v1?message=Git&logo=Git&labelColor=F05032&color=F05032&logoColor=white&label=%20&style=for-the-badge">
     <img src="https://img.shields.io/static/v1?message=Adobe Illustrator&logo=AdobeIllustrator&labelColor=FF9A00&color=FF9A00&logoColor=white&label=%20&style=for-the-badge">
     <img src="https://img.shields.io/static/v1?message=Figma&logo=Figma&labelColor=F24E1E&color=F24E1E&logoColor=white&label=%20&style=for-the-badge">
     <img src="https://img.shields.io/static/v1?message=Visual Studio Code&logo=Visual Studio Code&labelColor=007ACC&color=007ACC&logoColor=white&label=%20&style=for-the-badge">
