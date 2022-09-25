@@ -7,9 +7,11 @@
 
 </div>
 
+
+
 <div align="right">
 
-<a align="right" href="https://github.com/thalesgomest/thalesgomestEN-US#readme">🔁 Change to English Version</a> <img height="14em" src="https://github.com/hampusborgos/country-flags/blob/main/png100px/us.png"></a>
+<a align="right" href="https://github.com/thalesgomest/thalesgomest/blob/main/README.en-us.md">🔁 Change to English Version</a> <img height="14em" src="https://github.com/hampusborgos/country-flags/blob/main/png100px/us.png"></a>
 
 </div>
 
@@ -70,13 +72,10 @@
     <img src="https://img.shields.io/static/v1?message=Prisma&logo=Prisma&labelColor=2D3748&color=2D3748&logoColor=white&label=%20&style=for-the-badge"><br>
 
 -   _**Banco de Dados**_<br>
-
-    -   _**SQL**_<p>
-        <img src="https://img.shields.io/static/v1?message=PostgreSQL&logo=PostgreSQL&labelColor=4169E1&color=4169E1&logoColor=white&label=%20&style=for-the-badge"><br>
-
-    -   _**NoSQL**_<p>
-        <img src="https://img.shields.io/static/v1?message=MongoDB&logo=MongoDB&labelColor=47A248&color=47A248&logoColor=white&label=%20&style=for-the-badge">
-        <img src="https://img.shields.io/static/v1?message=Redis&logo=Redis&labelColor=DC382D&color=DC382D&logoColor=white&label=%20&style=for-the-badge"><br>
+      
+      <img src="https://img.shields.io/static/v1?message=PostgreSQL&logo=PostgreSQL&labelColor=4169E1&color=4169E1&logoColor=white&label=%20&style=for-the-badge">
+      <img src="https://img.shields.io/static/v1?message=MongoDB&logo=MongoDB&labelColor=47A248&color=47A248&logoColor=white&label=%20&style=for-the-badge">
+      <img src="https://img.shields.io/static/v1?message=Redis&logo=Redis&labelColor=DC382D&color=DC382D&logoColor=white&label=%20&style=for-the-badge">
 
 -   _**Testes**_<br>
     <p></p>
