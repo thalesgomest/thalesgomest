@@ -9,7 +9,7 @@
 
 <div align="right">
 
-<a align="right" href="https://github.com/thalesgomest/thalesgomestEN-US#readme">🔁 Change to English Version</a>
+<a align="right" href="https://github.com/thalesgomest/thalesgomestEN-US#readme">🔁 Change to English Version</a> <img height="14em" src="https://github.com/hampusborgos/country-flags/blob/main/png100px/us.png"></a>
 
 </div>
 
