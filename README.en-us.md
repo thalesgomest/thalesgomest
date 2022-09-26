@@ -17,7 +17,7 @@
 
 ### My name is Thales Gomes,
 
-* I'm a **Full Stack** web developer! I love work with data and all things that backend offers, but for me is the user experiencie and the user interface is very important too, via front-end interface !
+* I'm a **Full Stack** web developer! I love work with data and all things that backend offers, but for me the user experiencie and the user interface is very important too, via front-end interface!
 * Passionate about technology, pizza, coffee, chocolate and dogs but not necessarily in that order 👨‍💻🍕☕🍫🐶
 * I'm from São Paulo but i love so much Minas Gerais, and I lived there for over 15 years ❤️
 * I'm graduated in Mechanical Engineer, but I really found myself as a Software Engineer 💻
