@@ -23,7 +23,7 @@
 * I'm graduated in Mechanical Engineer, but I really found myself as a Software Engineer 💻
 * Listening to podcasts, watching documentaries and playing games with friends are my favorite hobbies 🎧📺🎮<br>
 * Pronouns: He/Her :male_sign:<br>
-* Brazilian :brazil:
+* Brazilian <img height="14em" src="https://github.com/hampusborgos/country-flags/blob/main/png100px/br.png"></a>
 * Currently studying object-oriented programming (OOP) 📖
 
 ##
