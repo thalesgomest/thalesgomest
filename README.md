@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AECDF&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+um+desenvolvedor!;Bem-vindo(a)+ao+meu+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CD7C24&width=435&lines=Bem-vindo+ao+meu+Github!)](https://git.io/typing-svg)
 
 
 <div align="right">
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fthalesgomest&label=VISITANTES&labelColor=%23ff178a&countColor=%231aecdf&style=for-the-badge)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fthalesgomest)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fthalesgomest&label=VISITORS&labelColor=%23b45f06&countColor=%23555555&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fthalesgomest)
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <div align="left">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesgomest&layout=compact&langs_count=7&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesgomest&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
 
 ### 🕛 Wakatime
@@ -43,7 +43,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/c9842fba-7b55-4212-8295-53ac0b423a90.svg?style=for-the-badge)](https://wakatime.com/@c9842fba-7b55-4212-8295-53ac0b423a90)
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=thalesgomest&layout=compact&langs_count=6&theme=radical" alt="Wakatime weekly coding actitvity languages"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=thalesgomest&layout=compact&langs_count=6&theme=slateorange" alt="Wakatime weekly coding actitvity languages"/>
 
 </div>
 
