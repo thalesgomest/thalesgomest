@@ -26,7 +26,7 @@
 * Ouvir podcasts, assistir documentários e jogar com meus amigos são meus hobbies favoritos 🎧📺🎮<br>
 * Pronomes: Ele/Dele :male_sign:<br>
 * Brasileiro <img height="14em" src="https://github.com/hampusborgos/country-flags/blob/main/png100px/br.png"></a>
-* No momento estudando programação orientada a objetos (POO) 📖
+* No momento estudando programação orientada a objetos (POO) e SQL Oracle 📖
 
 ##
 
