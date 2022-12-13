@@ -94,7 +94,7 @@
 
 **Banco de Dados**<br>
 <p>
-<img height="40" src="https://sybyl.com/wp-content/uploads/2019/11/Oracle-Logo-For-Website.png" />&nbsp
+<img height="40" src="https://seeklogo.com/images/O/oracle-database-logo-780BE0C820-seeklogo.com.png"/>&nbsp
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>&nbsp
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />&nbsp
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg"  />&nbsp
