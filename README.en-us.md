@@ -24,7 +24,7 @@
 * Listening to podcasts, watching documentaries and playing games with friends are my favorite hobbies 🎧📺🎮<br>
 * Pronouns: He/Her :male_sign:<br>
 * Brazilian <img height="14em" src="https://github.com/hampusborgos/country-flags/blob/main/png100px/br.png"></a>
-* Currently studying object-oriented programming (OOP) 📖
+* Currently studying object-oriented programming (OOP) and Oracle Database 📖
 
 <div align="center">
 
