@@ -28,6 +28,17 @@
 * Brasileiro <img height="14em" src="https://github.com/hampusborgos/country-flags/blob/main/png100px/br.png"></a>
 * No momento estudando programação orientada a objetos (POO) e SQL Oracle 📖
 
+
+<div align="center">
+
+### 📫 Contato
+
+ <a href = "mailto:thalestargino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thalesgomest/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+</div>
+
+
 ##
 
 ### 📊 Status do meu Github
@@ -48,6 +59,92 @@
 </div>
 
 ##
+
+<!-- Stacks com Ícones -->
+
+### ⚒️ Minha Stack
+
+**Linguagens**<br>
+<p>
+<a href="https://www.javascript.com/"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/></a>&nbsp
+<a href="https://www.typescriptlang.org/"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/></a>&nbsp
+<a href="https://www.python.org/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python"/></a>&nbsp
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="CSharp"/></a>&nbsp
+
+##
+
+**Front-end**<br>
+<p>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />&nbsp
+<img width="40" src="https://miro.medium.com/max/318/1*p1TndLk3UsGPBsM7qHPZIw.png" />&nbsp
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />&nbsp
+
+##
+
+**Back-end**<br>
+<p>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>&nbsp
+<img height="40" src="https://tsed.io/prisma-2.svg" style />&nbsp
+
+##
+
+**Banco de Dados**<br>
+<p>
+<img height="40" src="https://sybyl.com/wp-content/uploads/2019/11/Oracle-Logo-For-Website.png" />&nbsp
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>&nbsp
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />&nbsp
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg"  />&nbsp
+
+##
+
+**Testes**<br>
+<p>
+<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" />&nbsp
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp
+
+##
+
+**Deploy**<br>
+<p>
+<img height="40" src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png"  />&nbsp
+<img width="40" src="https://www.svgrepo.com/show/327408/logo-vercel.svg" />&nbsp
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />&nbsp
+
+##
+
+**DevOps**<br>
+<p>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />&nbsp
+<img height="40" src="https://pyimagesearch.com/wp-content/uploads/2014/10/gpu_amazon_ec2_logo.png" />&nbsp
+<a href="https://docs.github.com/pt/actions"><img width="40" src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="Github Actions"/></a>
+
+##
+
+**Ferramentas**<br>
+<p>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>&nbsp
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>&nbsp
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />&nbsp
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />&nbsp
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/>&nbsp
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />&nbsp
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>&nbsp
+
+##
+
+**Sistemas Operacionais**<br>
+
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+#
+  
+<!-- Stacks com Badges -->
+
+<!-- 
 
 ### ⚒️ Minha Stack
 
@@ -111,15 +208,8 @@
     <br>
 
 ##
-
-### 📫 Contato
-
-<div>
-  <a href = "mailto:thalestargino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thalesgomest/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
  
-##
+-->
 
 > _"Perfer et obdura; dolor hic tibi proderit olim" (Be patient and tough; someday this pain will be useful to you”)_ - Ovídio
 
