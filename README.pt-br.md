@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CD7C24&width=437&lines=Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CD7C24&width=435&lines=Bem-vindo+ao+meu+Github!)](https://git.io/typing-svg)
 
 
 <div align="right">
@@ -7,41 +7,45 @@
 
 </div>
 
+
+
 <div align="right">
 
-<a align="right" href="https://github.com/thalesgomest">🔁 Change to Portuguese Version</a> <img height="14em" src="https://github.com/hampusborgos/country-flags/blob/main/png100px/br.png"></a>
+<a align="right" href="https://github.com/thalesgomest/thalesgomest/blob/main/README.md">🔁 Change to English Version</a> <img height="14em" src="https://github.com/hampusborgos/country-flags/blob/main/png100px/us.png"></a>
 
 </div>
 
-### Hi! 👋
+### Muito prazer! 👋
 
-### My name is Thales Gomes,
+### Meu nome é Thales Gomes,
 
-* I'm a **Full Stack** web developer! I love work with data and all things that backend offers, but for me the user experiencie and the user interface is very important too, via front-end interface!
-* Passionate about technology, pizza, coffee, chocolate and dogs but not necessarily in that order 👨‍💻🍕☕🍫🐶
-* I'm from São Paulo but i love so much Minas Gerais, and I lived there for over 15 years ❤️
-* I'm graduated in Mechanical Engineer, but I really found myself as a Software Engineer 💻
-* Listening to podcasts, watching documentaries and playing games with friends are my favorite hobbies 🎧📺🎮<br>
-* Pronouns: He/Her :male_sign:<br>
-* Brazilian <img height="14em" src="https://github.com/hampusborgos/country-flags/blob/main/png100px/br.png"></a>
-* Currently studying object-oriented programming (OOP) and Oracle Database 📖
+* Sou desenvolvedor web **Full Stack**! Adoro lidar com dados e tudo que o back-end oferece, mas também valorizo muito a experiência final do usuário via front-end!
+* Apaixonado por tecnologia, pizza, café, chocolate e cachorros mas não necessariamente nesta ordem 👨‍💻🍕☕🍫🐶
+* Sou paulista de nascimento, mas mineiro de coração! ❤️
+* Engenheiro Mecânico por formação, mas me encontrei de verdade como Engenheiro de Software 💻
+* Ouvir podcasts, assistir documentários e jogar com meus amigos são meus hobbies favoritos 🎧📺🎮<br>
+* Pronomes: Ele/Dele :male_sign:<br>
+* Brasileiro <img height="14em" src="https://github.com/hampusborgos/country-flags/blob/main/png100px/br.png"></a>
+* No momento estudando programação orientada a objetos (POO) e SQL Oracle 📖
+
 
 <div align="center">
 
-### 📫 Contact
+### 📫 Contato
 
  <a href = "mailto:thalestargino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thalesgomest/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
 
+
 ##
 
-### 📊 My Github Status
+### 📊 Status do meu Github
 
 <div align="left">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesgomest&layout=compact&langs_count=7&theme=calm"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesgomest&layout=compact&langs_count=7&theme=darcula"/>
 </div>
 
 ### 🕛 Wakatime
@@ -50,17 +54,17 @@
 
 [![wakatime](https://wakatime.com/badge/user/c9842fba-7b55-4212-8295-53ac0b423a90.svg?style=for-the-badge)](https://wakatime.com/@c9842fba-7b55-4212-8295-53ac0b423a90)
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=thalesgomest&layout=compact&langs_count=6&theme=calm" alt="Wakatime weekly coding actitvity languages"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=thalesgomest&layout=compact&langs_count=6&theme=darcula" alt="Wakatime weekly coding actitvity languages"/>
 
 </div>
 
 ##
 
-<!-- Stacks with Icons -->
+<!-- Stacks com Ícones -->
 
-### ⚒️ Stack
+### ⚒️ Minha Stack
 
-**Languages**<br>
+**Linguagens**<br>
 <p>
 <a href="https://www.javascript.com/"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/></a>&nbsp
 <a href="https://www.typescriptlang.org/"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/></a>&nbsp
@@ -87,10 +91,8 @@
 <img height="40" src="https://tsed.io/prisma-2.svg" style />&nbsp
 
 ##
- 
- 
 
-**Database**<br>
+**Banco de Dados**<br>
 <p>
 <img height="40" src="https://seeklogo.com/images/O/oracle-database-logo-780BE0C820-seeklogo.com.png"/>&nbsp
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>&nbsp
@@ -99,7 +101,7 @@
 
 ##
 
-**Tests**<br>
+**Testes**<br>
 <p>
 <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" />&nbsp
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp
@@ -122,7 +124,7 @@
 
 ##
 
-**Other Tools**<br>
+**Ferramentas**<br>
 <p>
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>&nbsp
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>&nbsp
@@ -134,15 +136,19 @@
 
 ##
 
-**Operational System**<br>
+**Sistemas Operacionais**<br>
 
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-<!-- Stack with badges
+#
+  
+<!-- Stacks com Badges -->
 
-### ⚒️ Stack
+<!-- 
 
--   _**Programming Languages**_<br>
+### ⚒️ Minha Stack
+
+-   _**Linguagens**_<br>
     <p>
     <img src="https://img.shields.io/static/v1?message=JavaScript&logo=JavaScript&labelColor=F7DF1E&color=F7DF1E&logoColor=black&label=%20&style=for-the-badge">
     <img src="https://img.shields.io/static/v1?message=TypeScript&logo=TypeScript&labelColor=3178C6&color=3178C6&logoColor=white&label=%20&style=for-the-badge"><br>
@@ -162,13 +168,13 @@
     <img src="https://img.shields.io/static/v1?message=Express&logo=Express&labelColor=000000&color=000000&logoColor=white&label=%20&style=for-the-badge">
     <img src="https://img.shields.io/static/v1?message=Prisma&logo=Prisma&labelColor=2D3748&color=2D3748&logoColor=white&label=%20&style=for-the-badge"><br>
 
--   _**Database**_<br>
-    <p>
-    <img src="https://img.shields.io/static/v1?message=PostgreSQL&logo=PostgreSQL&labelColor=4169E1&color=4169E1&logoColor=white&label=%20&style=for-the-badge">
-    <img src="https://img.shields.io/static/v1?message=MongoDB&logo=MongoDB&labelColor=47A248&color=47A248&logoColor=white&label=%20&style=for-the-badge">
-    <img src="https://img.shields.io/static/v1?message=Redis&logo=Redis&labelColor=DC382D&color=DC382D&logoColor=white&label=%20&style=for-the-badge"><br>
+-   _**Banco de Dados**_<br>
+      
+      <img src="https://img.shields.io/static/v1?message=PostgreSQL&logo=PostgreSQL&labelColor=4169E1&color=4169E1&logoColor=white&label=%20&style=for-the-badge">
+      <img src="https://img.shields.io/static/v1?message=MongoDB&logo=MongoDB&labelColor=47A248&color=47A248&logoColor=white&label=%20&style=for-the-badge">
+      <img src="https://img.shields.io/static/v1?message=Redis&logo=Redis&labelColor=DC382D&color=DC382D&logoColor=white&label=%20&style=for-the-badge">
 
--   _**Tests**_<br>
+-   _**Testes**_<br>
     <p></p>
     <img src="https://img.shields.io/static/v1?message=Jest&logo=jest&labelColor=C21320&color=C21320&logoColor=white&label=%20&style=for-the-badge">
     <img src="https://img.shields.io/static/v1?message=Cypress&logo=Cypress&labelColor=17202C&color=17202C&logoColor=white&label=%20&style=for-the-badge"><br>
@@ -186,7 +192,7 @@
     <img src="https://img.shields.io/static/v1?message=Vercel&logo=Vercel&labelColor=000000&color=000000&logoColor=white&label=%20&style=for-the-badge">
     <img src="https://img.shields.io/static/v1?message=Heroku&logo=Heroku&labelColor=430098&color=430098&logoColor=white&label=%20&style=for-the-badge"><br>
 
--   _**Other Tools**_<br>
+-   _**Ferramentas**_<br>
     <p></p>
     <img src="https://img.shields.io/static/v1?message=Git&logo=Git&labelColor=F05032&color=F05032&logoColor=white&label=%20&style=for-the-badge">
     <img src="https://img.shields.io/static/v1?message=Trello&logo=Trello&labelColor=0052CC&color=0052CC&logoColor=white&label=%20&style=for-the-badge">
@@ -196,15 +202,13 @@
     <img src="https://img.shields.io/static/v1?message=Visual Studio Code&logo=Visual Studio Code&labelColor=007ACC&color=007ACC&logoColor=white&label=%20&style=for-the-badge">
     <br>
 
--   _**Operational System**_<br>
+-   _**Sistema Operacional**_<br>
     <p></p>
     <img src="https://img.shields.io/static/v1?message=Linux&logo=Linux&labelColor=FCC624&color=FCC624&logoColor=black&label=%20&style=for-the-badge">
     <br>
 
+##
+ 
 -->
-## 
 
 > _"Perfer et obdura; dolor hic tibi proderit olim" (Be patient and tough; someday this pain will be useful to you”)_ - Ovídio
-
-
-
