@@ -24,20 +24,20 @@
 * Listening to podcasts, watching documentaries and playing games with friends are my favorite hobbies 🎧📺🎮<br>
 * Pronouns: He/Him :male_sign:<br>
 * Brazilian <img height="14em" src="https://github.com/hampusborgos/country-flags/blob/main/png100px/br.png"></a>
-* Currently studying object-oriented programming (OOP) and Oracle Database 📖
+* Currently React, Next.js and Node.js 📖
 
-<div align="center">
+<div align="left">
 
 ### 📫 Contact
 
- <a href = "mailto:thalestargino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thalesgomest/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href = "mailto:thalestargino@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/thalesgomest/"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a>
 
 </div>
 
 ##
 
-### 📊 Languages status
+### 👨‍💻 Languages Status
 
 <div align="left">
   
@@ -58,8 +58,7 @@
 
 <!-- Stacks with Icons -->
 
-### ⚒️ Stack
-
+### 🧰 Stack
 [![My Skills](https://skillicons.dev/icons?i=js,ts,cs,py,html,css,sass,styledcomponents,react,nodejs,express,postgres,mongodb,prisma,redis,cypress,jest,aws,docker,git,gitlab,vscode,figma,notion,obsidian&perline=10)](https://skillicons.dev)
 
 ## 
