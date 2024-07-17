@@ -58,7 +58,7 @@
 
 <!-- Stacks with Icons -->
 
-### 🧰 Stack
+### 🧰 Tools
 [![My Skills](https://skillicons.dev/icons?i=js,ts,cs,py,html,css,sass,styledcomponents,react,nodejs,express,postgres,mongodb,prisma,redis,cypress,jest,aws,docker,git,gitlab,vscode,figma,notion,obsidian&perline=10)](https://skillicons.dev)
 
 ## 
