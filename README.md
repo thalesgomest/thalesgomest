@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CD7C24&width=437&lines=Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=851ee5&width=437&lines=Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
 
 <div align="right">
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fthalesgomest&label=VISITORS&labelColor=%23b45f06&countColor=%23555555&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fthalesgomest)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fthalesgomest&label=VISITORS&labelColor=%9900FF&countColor=%23555555&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fthalesgomest)
 
 </div>
 
