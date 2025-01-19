@@ -9,7 +9,7 @@
 
 <div align="right">
 
-<a align="right" href="https://github.com/thalesgomest/thalesgomest/blob/main/README.pt-br.md">🔁 Change to Portuguese Version</a> <img height="14em" src="https://github.com/hampusborgos/country-flags/blob/main/png100px/br.png"></a>
+<a align="right" href="https://github.com/thalesgomest/thalesgomest/blob/main/README.pt-br.md">🔁 Change to Portuguese Version</a> 🇧🇷
 
 </div>
 
@@ -23,7 +23,7 @@
 * I'm graduated in Mechanical Engineer, but I really found myself as a Software Engineer 💻
 * Listening to podcasts, watching documentaries and playing games with friends are my favorite hobbies 🎧📺🎮<br>
 * Pronouns: He/Him :male_sign:<br>
-* Brazilian <img height="14em" src="https://github.com/hampusborgos/country-flags/blob/main/png100px/br.png"></a>
+* Brazilian 🇧🇷
 * Currently studing React, Next.js and Node.js 📖
 
 <div align="left">
